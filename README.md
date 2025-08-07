@@ -1,3 +1,3 @@
 ## KVRustyDB (a key value store database in rust)
 
-![Alt text](https://ibb.co/gMnS69kT)
+<a href="https://ibb.co/Vcdm1sMD"><img src="https://i.ibb.co/39wz3nSW/Untitled-design-23.png" alt="Untitled-design-23" border="0"></a>
